@@ -1,7 +1,26 @@
-.fondo {
-    background-color: color #fffbf7
+/* Estilo Actividad 1*/
+body{
+    background-color: #fffbf7;
+    text-align: center;
 }
-
-.fondoboton{
-    background-color: color #025157
+h1{
+    color: #8b8b8bcc;
+    font: bold;
+}
+.caja1{
+    position: relative;
+    background-color: transparent;
+  
+}
+.subtitulo{
+    color: #46484c;
+}
+#logo{
+    width: 45%;
+}
+#subemail{
+    font-size: xx-small;
+}
+#enviar{
+    background-color: #fff;
 }
