@@ -16,7 +16,6 @@ p {
 button {
     color: #fff;
     background-color: #025157;
-    
 }
 
 header {
@@ -52,9 +51,34 @@ header {
     font-weight: 600;
 }
 
-.div{
-    align-items: center;
+.publish {
+    /* container styles if any */
 }
-.form{
-    align-content: center;
+
+.publish h3 {
+    font-family: "Alegreya", serir;
+    font-size: 40px;
+    line-height: 48px;
+    color: #025157;
+}
+
+.publish > p {
+    font-size: 16px;
+    color: #343434;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.publish > form {
+    display: flex;
+}
+
+.publish > form p {
+    color: #025157;
+    margin-right: 18px;
+}
+
+.promo {
+    display: flex;
+    width: 70%;
 }
